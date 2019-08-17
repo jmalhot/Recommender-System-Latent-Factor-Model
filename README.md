@@ -1,4 +1,4 @@
-# ML_Recommendation_Model
+# Recommender System - Collaborative Filtering
 The model recommends a set of books to user based on Machine Learning Techniques
 
 Algorithm:- Latent Factor Model for Collaborative Filtering
